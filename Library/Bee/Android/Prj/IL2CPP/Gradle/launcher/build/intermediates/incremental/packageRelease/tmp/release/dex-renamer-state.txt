@@ -1,0 +1,4 @@
+#Wed Jan 17 18:00:32 GMT+08:00 2024
+base.0=E\:\\Unity Project\\VR-Test-1\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
